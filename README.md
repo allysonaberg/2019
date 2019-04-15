@@ -26,6 +26,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Alex Danilenko](https://twitter.com/Alexsey333)|[GitHub](https://github.com/Alexsey333/wwdc19)|[Youtube](https://youtu.be/_MEUeRppeWc)|SceneKit|Submitted|
 |[Alexander Zank](https://twitter.com/alexlikeplus)|[GitHub](https://github.com/AlexLike/WWDC19Playground)|[Youtube](https://youtu.be/3lVUhAldC9Q)|UIKit Dynamics, AVFoundation, ARKit, SceneKit|Submitted|
 |[Alexandru Barbulescu](https://www.linkedin.com/in/barbulescualex/)|[GitHub](https://github.com/barbulescualex/BeatMatch)|[Youtube](https://youtu.be/7e6X7DzddIQ)|AVFoundation, Accelerate, Metal|Submitted|
+|[Allyson Aberg](https://twitter.com/alexlikeplus)|[GitHub](https://github.com/allysonaberg/WWDC2019)||UIKit Dynamics, AVFoundation, Spritekit|Accepted|
 |Andika Leonardo|[GitHub](https://github.com/andikaleonardo/WWDC-2019-Scholarship-Submissions)||QuartzCore, UISceneKit, UIStackView, CGFloat/CGRect|Submitted|
 |[Andrew Sawyer](http://andrewjsawyer.com/)|[GitHub](https://github.com/aswyer/Emotist)||SceneKit|Submitted|
 |[Andy Jiehan Aldicho](https://twitter.com/scitsiugnil)|[GitHub](https://github.com/jiehanAldicho/WWDC2019)||SpriteKit, GameplayKit, Appkit|Submitted|
@@ -98,7 +99,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Kyoya Yamaguchi](https://twitter.com/kyoya1123)|[GitHub](https://github.com/kyoya1123/Breakout3D)|[YouTube](https://youtu.be/u520SAMfV6s)|UIKit, ARKit, SceneKit, AVFoundation|Submitted|
 |[Lachlan Bell](https://lachy.io)|[GitHub](https://github.com/lachlanbell/WWDC19)|[YouTube](https://youtu.be/p_SrgzPHf_Y)|ARKit, Model I/O, SceneKit, UIKit|Submitted|
 |[Lennart Kerkvliet](https://www.instagram.com/lennartkerkvliet/)||[YouTube](https://www.youtube.com/watch?v=HsaaxNWrP5Y)|ARKit, SpriteKit, UIKit (Drag and Drop), CoreMotion, AVFoundation|Submitted|
-|[Liam Rosenfeld](https://liamrosenfeld.com)|[Github](https://github.com/liamrosenfeld/FourierArtist)||SpriteKit, AppKit, Foundation|Accepted|
+|[Liam Rosenfeld](https://liamrosenfeld.com)|[Github](https://github.com/liamrosenfeld/FourierArtist)||SpriteKit, AppKit, Foundation|Submitted|
 |[Linh Bouniol](https://twitter.com/linhbouniol)||[YouTube](https://www.youtube.com/watch?v=XywaVKxTnys)|CoreML, CreateML, Vision, AVFoundation|Submitted|
 |[Liuliet Lee](https://github.com/LiulietLee)|[GitHub](https://github.com/LiulietLee/mikutap)||UIKit, MetalKit, MediaPlayer, AVFoundation|Submitted|
 |Luiz Processo|[GitHub](https://github.com/luizprocesso/wwdc2019)||SpriteKit, AVFoundation, PlaygroundBook|Submitted|
